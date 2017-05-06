@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void load_data_from_server() {
         pd.show();
-        String url = "http://192.168.1.14/freebieslearning/chart.php";
+        String url = "http://vga.ramstertech.com/freebieslearning/chart.php";
         xAxis1 = new ArrayList<>();
         yAxis = null;
         yValues = new ArrayList<>();

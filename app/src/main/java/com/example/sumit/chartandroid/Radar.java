@@ -40,7 +40,7 @@ public class Radar extends AppCompatActivity {
     }
     public void load_data_from_server() {
         pd.show();
-        String url = "http://192.168.1.14/freebieslearning/radar.php";
+        String url = "http://vga.ramstertech.com/freebieslearning/radar.php";
 
 
 
